@@ -4,7 +4,7 @@
 
 Aplikasi web berbasis Machine Learning yang mendeteksi dan mengklasifikasikan apakah sebuah teks (tweet/laporan masyarakat) merupakan **aduan transportasi & lalu lintas** atau bukan, menggunakan **XGBoost** dan teknik NLP Bahasa Indonesia.
 
-> Dibangun sebagai bagian dari Tugas Akhir Program Studi Sistem Informasi, Telkom University.
+> Dibangun sebagai bagian dari Tugas Besar Program Studi Sistem Informasi, Telkom University.
 
 ---
 
